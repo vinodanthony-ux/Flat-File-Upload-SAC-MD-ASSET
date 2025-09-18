@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-excel",
-      "url": "https://github.com/vinodanthony-ux/Flat-File-Upload-SAC-MD-ASSET/blob/main/excel%201.js",
+      "url": "https://github.com/vinodanthony-ux/Flat-File-Upload-SAC-MD-ASSET/blob/41465d3f3841739e09fc61bd63595d02047bb570/excel1.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-excel-aps",
-      "url": "https://github.com/vinodanthony-ux/Flat-File-Upload-SAC-MD-ASSET/blob/main/aps_excel%201.js",
+      "url": "https://github.com/vinodanthony-ux/Flat-File-Upload-SAC-MD-ASSET/blob/41465d3f3841739e09fc61bd63595d02047bb570/aps_excel1.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
